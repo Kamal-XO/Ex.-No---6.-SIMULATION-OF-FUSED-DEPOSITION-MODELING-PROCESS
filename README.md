@@ -22,8 +22,10 @@
 
 ## Output:
 
-### Name:
-### Register Number:
+![output](https://user-images.githubusercontent.com/118708624/241621523-e047fba7-835b-4f71-a2d6-da4e52987816.png)
+
+### Name: Kamalesh
+### Register Number: 212222240041
 
 ## Result:
 ### Thus the simulation on the FDM process is completed & prototyping process is studied.
